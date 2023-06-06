@@ -1,0 +1,1 @@
+mapAssignment.marksObtaininMaths();
