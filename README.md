@@ -1,6 +1,7 @@
-# Batch 15 Daily session project
+# Batch 15 Daily session project.
 
-We leart apex using this project.
+
+We learnt apex using this project.
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
