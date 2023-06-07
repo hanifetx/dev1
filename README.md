@@ -1,4 +1,4 @@
-# Batch 15 Daily session project
+# Batch 15 Daily session project.
 
 We learnt apex using this project.
 # Salesforce DX Project: Next Steps
